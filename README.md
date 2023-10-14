@@ -5,11 +5,10 @@ DiDi -+- DDoS is a Python application built with PyQt5 that allows you to perfor
 ## Usage
 
 1. Enter the target URL, the number of requests, and the concurrency (threads) into the configuration tab.
-2. Optionally, you can specify a custom HTTP header to include in your requests.
-3. Click the "Start Test" button to begin the load test.
-4. The console tab will display real-time results, including response status codes and timestamps.
-5. The server status button will indicate if the server is active (green) or down (red).
-6. The server status color will change based on the real-time server status.
+2. Click the "Start Test" button to begin the load test.
+3. The console tab will display real-time results, including response status codes and timestamps.
+4. The server status button will indicate if the server is active (green) or down (red).
+5. The server status color will change based on the real-time server status.
 
 ## Warnings
 
