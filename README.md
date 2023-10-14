@@ -10,7 +10,6 @@ DiDi -+- DDoS is a Python application built with PyQt5 that allows you to perfor
 - [Warnings](#warnings)
 - [Executable for Windows](#executable-for-windows)
 - [Building the Executable](#building-the-executable)
-- [License](#license)
 
 ## Prerequisites
 
@@ -51,13 +50,11 @@ Before you get started, make sure you have the following prerequisites:
 
 1. **URL Configuration:** Enter the target URL, the number of requests, and the concurrency (threads) into the configuration tab.
 
-2. **Custom HTTP Header (optional):** Optionally, you can specify a custom HTTP header to include in your requests.
+2. **Start the Test:** Click the "Start Test" button to begin the load test.
 
-3. **Start the Test:** Click the "Start Test" button to begin the load test.
+3. **Real-time Results:** The console tab will display real-time results, including response status codes and timestamps.
 
-4. **Real-time Results:** The console tab will display real-time results, including response status codes and timestamps.
-
-5. **Server Status:** The server status button will indicate if the server is active (green), down (red), or in an unknown state (orange). The color changes based on the real-time server status.
+4. **Server Status:** The server status button will indicate if the server is active (green), down (red), or in an unknown state (orange). The color changes based on the real-time server status.
 
 ## Warnings
 
